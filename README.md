@@ -1,2 +1,2 @@
 # Base-converter
-Java Project to convert values from one base to another
+Java Program that converts values from one base to another
