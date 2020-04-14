@@ -1,5 +1,5 @@
 # Base Converter
-Java Program that converts values from one base to another
+Java program that converts values from one base to another
 
 ## Usage
 
